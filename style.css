@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: rgb(245, 242, 106);
+    display: grid; 
+     place-items: center;
+     display: flex;
+    align-items: center;
+    justify-content: space-around;
+   font-size: x-large;
+   font-weight: 900;
+    line-height: 40px;
+    color: rgba(1, 0, 0, 0.912);
+}
+.counter{
+    color: chocolate;
+    font-size:xx-large ;
+}
+.fa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px;
+}
